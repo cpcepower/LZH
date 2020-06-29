@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1454137889 source:c:\work\c\lzh\ar002\decode.c
+	"ar.h"
+
+1454137511 c:\work\c\lzh\ar002\ar.h
+	<stdio.h>
+	<limits.h>
+
+1454138732 source:c:\work\c\lzh\ar002\encode.c
+	"ar.h"
+	<stdlib.h>
+	<string.h>
+
+1454137955 source:c:\work\c\lzh\ar002\huf.c
+	<stdlib.h>
+	"ar.h"
+
+1454137997 source:c:\work\c\lzh\ar002\io.c
+	"ar.h"
+	<stdlib.h>
+	<stdarg.h>
+
+1454138217 source:c:\work\c\lzh\ar002\maketbl.c
+	"ar.h"
+
+1454138415 source:c:\work\c\lzh\ar002\maketree.c
+	"ar.h"
+
+1529009263 source:c:\work\c\lzh\ar002\ar.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ar.h"
+
